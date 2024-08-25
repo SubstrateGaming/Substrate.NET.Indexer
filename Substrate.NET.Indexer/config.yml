@@ -1,0 +1,5 @@
+﻿# config.yml
+base:
+ update_timeout_min: 1
+node:
+ url: "wss://bajun.api.onfinality.io/public-ws"

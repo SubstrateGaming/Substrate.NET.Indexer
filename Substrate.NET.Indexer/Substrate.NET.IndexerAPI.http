@@ -1,0 +1,6 @@
+@Substrate.NET.IndexerAPI_HostAddress = http://localhost:5097
+
+GET {{Substrate.NET.IndexerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
